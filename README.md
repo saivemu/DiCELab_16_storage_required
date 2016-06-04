@@ -15,7 +15,6 @@ For example:
 ```
 if ispc
     Netload_365 = load_data('C:\Users\Sai\Dropbox\Sai - Research Work\Excel sheet Backup/Netload.xlsx','2015');
-    Netload_Cast_365 = load_data('C:\Users\Sai\Dropbox\Sai - Research Work\Excel sheet Backup/NetloadForecast.xlsx','2015');
 end
 
 ```

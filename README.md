@@ -4,7 +4,7 @@
 #Optimal storage sizing for grid level energy storage to tackle intermittent renewable energy sources 
 
 
-This repository comprises of the code I wrote for my research project at Distributed Control of Energy Systems Lab, University of Florida, under the guidance of Dr. Prabir Barooah.
+This repository comprises of the code I wrote for my research project at Distributed Control of Energy Systems Lab, University of Florida, under the guidance of [Dr. Prabir Barooah](http://web.mae.ufl.edu/pbarooah/).
 
 
 ##Instructions
